@@ -2,5 +2,5 @@
 
 void Math::print()
 {
-    std::cout << "Estou printando coisas laguma dessa classe de merda" << std::endl;
+    std::cout << "This is a print made by the Math class" << std::endl;
 }
