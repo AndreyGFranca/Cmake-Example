@@ -23,10 +23,10 @@ make tests
 The project structure is minimalist, for you start to make something amazing.
 
 .
-├── cmake_example
-│   ├── resource
-│   ├── src
-│   └── test
+├── cmake_example  
+│   ├── resource  
+│   ├── src  
+│   └── test  
 
 ## Catch
 
