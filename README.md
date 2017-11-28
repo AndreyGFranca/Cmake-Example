@@ -4,7 +4,7 @@ A Minimal C++ project structure build with cmake and Catch lib for tests.
 # Building
 
 Just type on terminal
-```
+```bash
 mkdir build && cd build
 cmake ..
 make
@@ -12,7 +12,7 @@ make
 
 ## Building Tests
 Just type on terminal
-```
+```bash
 mkdir build && cd build
 cmake ..
 make tests
